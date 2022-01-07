@@ -1,0 +1,27 @@
+.aboutMe {
+    width: 100%;
+}
+.aboutMe__block {
+    margin: 0px 0px 30px 0px;
+}
+.aboutMe__top {
+    width: 60%;
+}
+.aboutMe__firstBlock {
+    display: flex;
+}
+.aboutMe__btn {
+    margin: 0px 0px 0px 50px !important;
+    background: transparent;
+}
+.aboutMe__text {
+    color: #a6a6a6;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 15px 0px 0px 0px;
+}
+.aboutMe__top .checkboxes__text {
+    color: #f4d962;
+    font-size: 15px;
+    font-weight: 700;
+}

@@ -1,0 +1,62 @@
+.pay {
+    width: 80%;
+    margin: 0 auto 50px;
+    display: flex;
+}
+.pay .sortingTask__more {
+    display: none;
+}
+.pay__wrapper {
+    flex: 0 1 100%;
+    margin: 120px 0px 0px 0px;
+}
+.pay__toggles {
+    background: #fff5cb;
+    padding: 25px 50px;
+}
+
+.pay__btns {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 10px auto 50px;
+}
+.pay__btn {
+    padding: 10px 45px;
+    font-size: 15px;
+    background: #fff;
+    font-weight: 500;
+    color: #f4d962;
+}
+.dropdown {
+    background: none !important;
+    border: none !important;
+    justify-content: center !important;
+    width: 20% !important;
+    margin: auto;
+    display: block !important;
+}
+.pay__customer {
+    border-radius: 15px 0 0 15px;
+}
+.pay__executor {
+    border-radius: 0 15px 15px 0;
+}
+.pay__btn_active {
+    background: #f4d962;
+    color: #fff;
+}
+.pay .sidebar .sidebar__map {
+    margin: 0px 0px 5px 0px;
+}
+.pay__checkbox_text {
+    font-weight: 700;
+}
+.pay__tasks {
+    margin: 50px 0px 0px 0px;
+    border: 1px solid #a6a6a6;
+    border-radius: 10px;
+}
+.pay__tasks .sortingTask {
+    border-bottom: 1px solid #a6a6a6;
+}
